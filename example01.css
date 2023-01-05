@@ -1,0 +1,22 @@
+.css-style{
+    color:aquamarine;
+    font-size:50px
+}
+.select-style {
+    font: size 20px;
+    color : forestgreen;
+}
+.tb-head>tr>td{
+    border : 1px solid burlywood;
+    color : goldenrod;
+    font-size : 15px;
+    font-weight :bold;
+}
+.tb-body>tr>td{
+    border : 1px solid burlywood;
+    color :bisque;
+}
+p {
+    color : fuchsia;    
+    background-color: black;
+}
